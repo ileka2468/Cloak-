@@ -1,0 +1,10 @@
+build
+dependencies2
+venv
+Info
+CloakAIOutput
+CloakAI
+CloakAI.spec
+__pycache__
+.idea
+dist
